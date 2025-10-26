@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\aurora_bot\main.py", line 5, in <module>
+    from aurora_bot.config import BOT_TOKEN, ADMIN_IDS, TIMEZONE
+ModuleNotFoundError: No module named 'aurora_bot'
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\aurora_bot\main.py", line 5, in <module>
+    from aurora_bot.config import BOT_TOKEN, ADMIN_IDS, TIMEZONE
+ModuleNotFoundError: No module named 'aurora_bot'
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\aurora_bot\main.py", line 5, in <module>
+    from aurora_bot.config import BOT_TOKEN, ADMIN_IDS, TIMEZONE
+ModuleNotFoundError: No module named 'aurora_bot'
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\aurora_bot\main.py", line 5, in <module>
+    from aurora_bot.config import BOT_TOKEN, ADMIN_IDS, TIMEZONE
+ModuleNotFoundError: No module named 'aurora_bot'
